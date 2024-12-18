@@ -9,5 +9,5 @@ With my engineering and research activities, I am developing several **open-sour
 > * [guillod@dartmouth.edu](mailto:guillod@dartmouth.edu)
   
 > * [GitHub Profile](https://github.com/otvam)
-> * [Linkedin Profile](https://linkedin.com/in/tguillod)
+> * [LinkedIn Profile](https://linkedin.com/in/tguillod)
 > * [Google Scholar Profile](https://scholar.google.com/citations?user=vIC_c9YAAAAJ&hl)
